@@ -110,6 +110,7 @@ int main () {
     arrayImpl.push(8);
     arrayImpl.push(9);
     arrayImpl.push(10);
+    arrayImpl.push(99);
     arrayImpl.print();
     cout<<endl;
     arrayImpl.prepend(2);
@@ -121,9 +122,6 @@ int main () {
     arrayImpl.deleteAt(2);
     arrayImpl.resize();
     arrayImpl.remove(3);
-    
-    
-    
     
     return 0;
 }
