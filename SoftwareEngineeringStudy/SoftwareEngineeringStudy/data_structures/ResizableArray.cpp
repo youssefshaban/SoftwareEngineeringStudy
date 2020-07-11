@@ -4,7 +4,7 @@
 //
 //  Created by youssef shaban on 7/12/20.
 //  Copyright © 2020 youssef shaban. All rights reserved.
-//
+//  finally i have to thank Mmuhammed Ablelkawy for helping 
 
 #include "ResizableArray.hpp"
 #include <iostream>
